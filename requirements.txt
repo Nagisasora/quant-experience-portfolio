@@ -1,0 +1,29 @@
+# core
+numpy
+pandas
+matplotlib
+scikit-learn
+statsmodels
+scipy
+yfinance
+pandas-datareader
+jupyter
+pytest
+
+# speed & data handling
+numba
+polars
+
+# time series & vol
+arch
+pmdarima
+
+# portfolio
+cvxpy
+ecos
+osqp
+
+# backtesting
+backtesting
+vectorbt
+pandas-market-calendars
