@@ -53,8 +53,8 @@ Compare long-only top-quintile portfolios against the SPY benchmark.
 - **Value (1/PE):** The portfolio's annual return is close to SPY but has lower Sharpe (0.90) because of similar volatility but weaker returns. The maximum drawdown is worse than SPY. In this small universe and with a crude proxy (static 1/PE snapshot from Yahoo Finance), the value strategy didn’t add value. In fact, it slightly underperformed on a risk-adjusted basis. This mirrors real-world experience: Value has been weak over the last decade (growth stocks dominated, especially tech).
 - **Comparison:** 	
   - Momentum clearly dominates: highest return, highest Sharpe, and drawdowns no worse than SPY.
-	- Value struggled, showing the importance of robust factor definitions and larger universes.
-	- Even a toy backtest shows how different factors behave, and that momentum was rewarded in the 2015–2025 period while value lagged.
+  - Value struggled, showing the importance of robust factor definitions and larger universes.
+  - Even a toy backtest shows how different factors behave, and that momentum was rewarded in the 2015–2025 period while value lagged.
 - **Costs:** 5 bps per rebalance is modest; turnover could make this material in practice.
 
 ---
